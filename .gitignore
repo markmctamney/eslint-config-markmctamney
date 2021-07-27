@@ -118,3 +118,21 @@ dist/
 *.tsbuildinfo
 *.d.ts
 *.js.map
+
+# Yarn 2
+# Zero-installs
+# .yarn/*
+# !.yarn/cache
+# !.yarn/patches
+# !.yarn/plugins
+# !.yarn/releases
+# !.yarn/sdks
+# !.yarn/versions
+# Not zero-installs
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
