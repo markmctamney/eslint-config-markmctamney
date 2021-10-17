@@ -15,7 +15,7 @@
     "prettier": "*"
   },
   "devDependencies": {
-    "typescript": "^4.3.5"
+    "typescript": "^4.4.4"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.28.5",
