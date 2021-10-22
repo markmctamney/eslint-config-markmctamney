@@ -22,7 +22,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "@typescript-eslint/parser": "^5.0.0",
-    "eslint-config-universe": "^7.0.1",
+    "eslint-config-universe": "^8.0.0",
     "eslint-import-resolver-typescript": "^2.5.0",
     "eslint-plugin-graphql": "^4.0.0",
     "eslint-plugin-import": "^2.25.2",
