@@ -29,7 +29,7 @@
     "eslint-plugin-json": "^3.1.0",
     "eslint-plugin-json-format": "^2.0.1",
     "eslint-plugin-json-schema-validator": "^1.2.38",
-    "eslint-plugin-jsonc": "^1.7.0",
+    "eslint-plugin-jsonc": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-monorepo": "^0.3.2",
     "eslint-plugin-react": "^7.26.1",
