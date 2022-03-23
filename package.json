@@ -50,7 +50,7 @@
         "@babel/core": "^7.17.5",
         "@babel/eslint-plugin": "^7.16.5",
         "@types/babel__core": "^7",
-        "@types/node": "^17.0.21",
+        "@types/node": "^17.0.23",
         "@types/prettier": "^2.4.4",
         "eslint": "^8.9.0",
         "eslint-plugin-node": "^11.1.0",
@@ -61,7 +61,7 @@
     "dependencies": {
         "@next/eslint-plugin-next": "^12.1.0",
         "@typescript-eslint/eslint-plugin": "^5.12.1",
-        "@typescript-eslint/parser": "^5.12.1",
+        "@typescript-eslint/parser": "^5.16.0",
         "eslint-config-prettier": "^8.4.0",
         "eslint-config-universe": "^10.0.0",
         "eslint-import-resolver-typescript": "^2.5.0",
